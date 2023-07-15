@@ -1,0 +1,10 @@
+C:\Users\kzez1986\Source\Repos\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.exe.config
+C:\Users\kzez1986\Source\Repos\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.exe
+C:\Users\kzez1986\Source\Repos\AdoNetTransaction\AdoNetTransaction\bin\Debug\AdoNetTransaction.pdb
+C:\Users\kzez1986\Source\Repos\AdoNetTransaction\AdoNetTransaction\bin\Debug\AutoLotDAL.dll
+C:\Users\kzez1986\Source\Repos\AdoNetTransaction\AdoNetTransaction\bin\Debug\AutoLotDAL.pdb
+C:\Users\kzez1986\Source\Repos\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.csprojAssemblyReference.cache
+C:\Users\kzez1986\Source\Repos\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Source\Repos\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.csproj.CopyComplete
+C:\Users\kzez1986\Source\Repos\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.exe
+C:\Users\kzez1986\Source\Repos\AdoNetTransaction\AdoNetTransaction\obj\Debug\AdoNetTransaction.pdb
